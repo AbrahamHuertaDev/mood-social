@@ -1,0 +1,1 @@
+F:\develop\mood-social\app/views/global/navbar.blade.php

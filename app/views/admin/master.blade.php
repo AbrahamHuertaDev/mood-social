@@ -1,0 +1,1 @@
+F:\develop\mood-social\app/views/admin/master.blade.php
